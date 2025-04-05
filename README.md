@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple and efficient Task Manager application built using ReactJS, Material-UI, and Redux. This tool helps you to manage your tasks by adding, updating, deleting, and filtering them based on their status (e.g., Pending, Completed).
+A simple and efficient Task Manager application built using ReactJS, Material-UI, and Tailwind. This tool helps you to manage your tasks by adding, updating, deleting, and filtering them based on their status (e.g., Pending, Completed).
 
 ## Features
 
@@ -16,4 +16,4 @@ A simple and efficient Task Manager application built using ReactJS, Material-UI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/jozeftomy/task-manager.git
